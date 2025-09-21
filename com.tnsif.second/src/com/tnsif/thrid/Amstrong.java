@@ -1,6 +1,6 @@
 package com.tnsif.thrid;
 
-public class Amstrongnum {
+public class Amstrong {
 	public static void main(String[] args) {
         int num = 153;  
         int originalNum = num;
@@ -19,4 +19,4 @@ public class Amstrongnum {
     }
 }
 
-}
+
