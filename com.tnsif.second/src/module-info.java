@@ -4,5 +4,5 @@
 /**
  * 
  */
-module teegala {
+module com.tnsif.second {
 }
